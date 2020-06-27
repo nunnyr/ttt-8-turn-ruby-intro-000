@@ -55,7 +55,7 @@ end
 <<<<<<< HEAD
 def turn(board)
 =======
-def turn(user_input)
+def turn(board)
 >>>>>>> 831c7a2c4d2dde7836df2be1a5e5e77bcb3ccb41
  #board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
  puts "Please enter 1-9:"
